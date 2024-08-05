@@ -6,5 +6,6 @@ Hi, I'm Haylie! I'm passionate about creative development and learning new techn
 
 ## 🙋‍♀️ Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haylie-pedersen) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=hayliepedersen&icon=9&color=11)](https://visitcount.itsvg.in)
