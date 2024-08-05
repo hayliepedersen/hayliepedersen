@@ -1,5 +1,5 @@
 # 🌸 About Me :
-Hi! I'm Haylie, a second-year student at Northeastern University studying computer science with a concentration in software.
+Hi, I'm Haylie! I'm passionate about creative development and learning new technologies to enhance my skills. Currently, I'm focusing on learning version control, web development, and efficiency in coding practices. 
 
 ## 🙋‍♀️ Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haylie-pedersen) 
