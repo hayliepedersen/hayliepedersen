@@ -1,5 +1,5 @@
 ## 🌱 About Me :
-Hi, I'm Haylie! I'm passionate about creative development and learning new technologies to enhance my skills. Currently, I'm focusing on learning version control, web development, and efficiency in coding practices. 
+Hi, I'm Haylie! I'm passionate about creative development and learning new technologies to enhance my skills. Currently, I'm focusing on learning algorithmic problem-solving, improving time complexity in my code, and exploring scalable approaches in software development. 
 
 ## 💻 Tech Stack
 
